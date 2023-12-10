@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/digityal-garden-home-page-1/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/digityal-garden-home-page-1/","tags":["gardenEntry"]}
 ---
 
 Hello my name is maksim and my first create app obsidian with digital garden 
